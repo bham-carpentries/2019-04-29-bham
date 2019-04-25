@@ -29,7 +29,7 @@ double quotation marks around the value, unless specified otherwise.
 And run 'make workshop-check' *before* committing to make sure that changes are good.
 {% endcomment %}
 
-<h3 align=“center”><strong>This workshop is full. Only those with a confirmed place may attend.</strong></h3>
+<h3 align="center"><strong>This workshop is full. Only those with a confirmed place may attend.</strong></h3>
 
 {% if page.carpentry != site.carpentry %}
 <div class="alert alert-warning">
